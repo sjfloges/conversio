@@ -36,7 +36,7 @@ export const PlaygroundChat = () => {
                   <div>
                     {" "}
                     <h1 className="text-2xl sm:text-4xl font-semibold text-center text-gray-400 dark:text-gray-600 flex gap-2 items-center justify-center h-screen">
-                      Dialoqbase Playground
+                    Conversio Playground
                     </h1>
                   </div>
                 )}
