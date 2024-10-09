@@ -268,7 +268,6 @@ export default function BotPlaygroundLayout({
             >
               <img className="h-8 w-auto" src="/logo.png" alt="Conversio" />
               <span className="ml-1 text-xl font-bold">Conversio</span>
-              </span>
             </Link>
 
             <div className="flex flex-1 justify-end px-4">
